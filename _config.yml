@@ -1,1 +1,13 @@
 theme: jekyll-theme-architect
+# Site settings
+title: Bart Mao Is Thinking...
+email:
+description: http://bartmao.com
+baseurl: 
+url:
+twitter_username:
+github_username:  bartmao
+
+# Build settings
+markdown: kramdown
+permalink: pretty
